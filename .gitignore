@@ -1,0 +1,8 @@
+## CUE ###
+# cue module
+**/cue.mod/**/
+**/vendor/
+!**/cue.mod/module.cue
+# Deployment output
+deploy/output
+# End of CUE #
